@@ -23,11 +23,4 @@
         <item name="android:windowExitTransition">@transition/article_list_exit</item>
     </style>
 
-
-    <style name="Theme.Bacon.Detail">
-        <item name="android:colorPrimary">@color/theme_primary</item>
-        <item name="android:colorPrimaryDark">@color/theme_primary_dark</item>
-        <item name="android:colorAccent">@color/theme_accent</item>
-    </style>
-
 </resources>
